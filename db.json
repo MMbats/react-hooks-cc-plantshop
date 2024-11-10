@@ -41,6 +41,54 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Chinese evergreen",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716481819-screenshot-2024-05-23-at-12-30-01-pm-664f6f0e25f7d.png?crop=1xw:0.9959216965742251xh;center,top&resize=980:*",
+      "price": "5",
+      "id": 8
+    },
+    {
+      "name": "Peace lily",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716485340-1566417254329_20190821-1566417255317.jpg?crop=1xw:1.00xh;center,top&resize=980:*",
+      "price": "20",
+      "id": 9
+    },
+    {
+      "name": "Pothos",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716487827-screenshot-2024-05-23-at-2-09-31-pm-664f867f7e3c7.png?crop=0.785xw:0.863xh;0.0721xw,0.129xh&resize=980:*",
+      "price": "15",
+      "id": 10
+    },
+    {
+      "name": "Calathea ornata",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716488299-71-vzijzXL.jpg?crop=1xw:0.806xh;center,top&resize=980:*",
+      "price": "25",
+      "id": 11
+    },
+    {
+      "name": "Rubber Plant",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716489292-71YwiwQ8mAL.jpg?crop=0.792xw:0.792xh;0,0.208xh&resize=980:*",
+      "price": "13",
+      "id": 12
+    },
+    {
+      "name": "Yucca cane plant",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716910907-.jpg?crop=1xw:1.00xh;center,top&resize=980:*",
+      "price": "25",
+      "id": 13
+    },
+    {
+      "name": "Peperomia",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1716490739-1688607936-screen-shot-2023-07-05-at-9-45-19-pm-64a61cb3a7d01.png?crop=1xw:0.999xh;center,top&resize=980:*",
+      "price": "34",
+      "id": 14
+    },
+    {
+      "name": "Bamboo",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/lucky-bamoo-plant-care-66c496f7adb8e.jpg?crop=0.665xw:1.00xh;0.0385xw,0&resize=360:*",
+      "price": "30.04",
+      "id": 15
     }
   ]
 }

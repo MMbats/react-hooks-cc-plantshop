@@ -1,4 +1,14 @@
-import React from "react";
+import React, { useState } from "react";
+
+function Search({ setSubmittedSearch }) {
+  const [giveTerm, setSearchTerm] = useState("");
+
+  
+  function takeChange(e) {
+    const value = e.target.value;
+    setSearchTerm(value);          
+    setSubmittedSearch(value);     
+  }
 
   return (
     <div className="searchbar">
@@ -7,8 +17,8 @@ import React from "react";
         type="text"
         id="search"
         placeholder="Type a name to search..."
-        value={giveTerm}
-        onChange={takeChange}
+        value={giveTerm}  
+        onChange={takeChange}  
       />
     </div>
   );
