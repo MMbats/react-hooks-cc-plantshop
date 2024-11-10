@@ -10,7 +10,7 @@ Plantsy is a React-based web application for managing a plant shop's inventory. 
 
 ## Project Link
 
-Link to the deployed site: 
+Link to the deployed site: https://regal-pavlova-d82623.netlify.app/
 
 ## Features
 
