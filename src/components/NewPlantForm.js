@@ -13,5 +13,4 @@ function NewPlantForm() {
     </div>
   );
 }
-
 export default NewPlantForm;
